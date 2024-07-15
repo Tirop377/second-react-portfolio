@@ -3,7 +3,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 const Contact = () => {
   return (
     <div name='contact' className="w-full h-screen bg-[#0a192f] flex justify-center items-center p-4">
-        <form action="https://getform.io/f/adrynyra" method="POST" className="w-full max-w-[680px] flex flex-col mx-auto ">
+        <form action="" method="POST" className="w-full max-w-[680px] flex flex-col mx-auto ">
             <div className="pb-8">
                 <p className='text-4xl font-bold border-b-4 inline  border-pink-600 text-gray-300'>Contact </p>
                 <p className="py-4 text-gray-300">Submit the form below or shoot me an email <span> <FaArrowRightLong className="inline"/> </span> kevinbiwott83@gmail.com</p>
